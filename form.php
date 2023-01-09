@@ -93,8 +93,8 @@
       
         <select name="city" id="city">
             <option value="" selected disabled>Select City</option>
-            <option value="visavadar">Visavadar</option>
-            <option value="junagadh">Junagadh</option>
+            <option value="visavadar">Junagadh</option>
+            <option value="junagadh">Rajkot</option>
             <option value="ahmedabad">Ahmedabad</option>
             <option value="gandhinagar">Gandhinagar</option>
         </select>
