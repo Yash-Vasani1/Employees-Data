@@ -42,3 +42,9 @@ Open form.php for sign-up.
 Then open login.php to login and see employee details. 
 we can also see our data in database (http://localhost/phpmyadmin).
 
+
+## Demo images
+
+![ss1](https://user-images.githubusercontent.com/120910669/211396323-40ce5f41-98f3-4bc8-830c-5f385f626a5c.png)
+
+![ss2](https://user-images.githubusercontent.com/120910669/211396406-30c6fa3f-2858-4f76-8b08-bff1c1873b0b.png)
