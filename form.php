@@ -28,7 +28,7 @@
         {
             $error = "Last name must contain charactors and minimum length is 5!!";
         }
-        if (strpos(strtoupper($password),$uuname))
+        if (!strpos(strtoupper($password),$uuname))
         {
             $error = "Password should not contain user name!!";
         }
